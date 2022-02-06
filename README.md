@@ -1,16 +1,37 @@
 ### Hi there 👋
 
-<!--
-**tranphuc269/tranphuc269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Tran Van Phuc, I am currently pursuing my Bachelors in computer engineering from [Hanoi University of Science and Technology](https://www.hust.edu.vn/).
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NeiH4207" alt="NeiH4207" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Facts about me -->
+
+- 🌱 Experienced in software design
+- 👯 Build model for natural language, speech processing, bioinformatics, computer vision
+- 🤔 Knowledge of data structures and algorithms
+- 🥅 Ability to build the mobile app, frontend
+- 📫 Framework([Flutter](https://github.com/flutter/flutter), [VueJs](https://vuejs.org/), [NuxtJs](https://nuxtjs.org/),...)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=tranphuc269&row=1&no-bg=true)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+<a href="https://github.com/tranphuc269">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranphuc269&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/tranphuc269">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=tranphuc269&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+</a>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
