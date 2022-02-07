@@ -7,7 +7,6 @@ I am Tran Van Phuc, I am currently pursuing my Bachelors in computer engineering
 Facts about me -->
 
 - 🌱 Experienced in software design
-- 👯 Build model for natural language, speech processing, bioinformatics, computer vision
 - 🤔 Knowledge of data structures and algorithms
 - 🥅 Ability to build the mobile app, frontend
 - 📫 Framework([Flutter](https://github.com/flutter/flutter), [VueJs](https://vuejs.org/), [NuxtJs](https://nuxtjs.org/),...)
