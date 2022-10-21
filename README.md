@@ -9,7 +9,7 @@ Facts about me -->
 - 🌱 Experienced in software design
 - 🤔 Knowledge of data structures and algorithms
 - 🥅 Ability to build the mobile app, frontend
-- 📫 Framework([Flutter](https://github.com/flutter/flutter), [VueJs](https://vuejs.org/), [NuxtJs](https://nuxtjs.org/),...)
+- 📫 Framework([Flutter](https://github.com/flutter/flutter),...)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=tranphuc269&row=1&no-bg=true)
 
